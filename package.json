@@ -29,9 +29,9 @@
   "homepage": "https://proton-native.js.org",
   "dependencies": {
     "color": "^3.0.0",
-    "fbjs": "^0.8.16",
+    "fbjs": "^2.0.0",
     "libui-node": "^0.2.1",
-    "prop-types": "^15.6.1",
+    "prop-types": "^15.6.2",
     "react": "^16.8.2",
     "react-reconciler": "^0.20.0",
     "svg-path-parser": "^1.1.0"
